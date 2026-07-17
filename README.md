@@ -52,6 +52,17 @@ Power BI (visualization)
 
 See [`bronze_to_silver_gold.ipynb`](./bronze_to_silver_gold.ipynb) for the full transformation code.
 
+## Screenshots
+
+![Storage Containers](01_storage_containers.png)
+
+![Pipeline Success](02_adf_pipeline_success.png)
+
+![Gold Layer Output](03_gold_layer_output.png)
+
+![Sales Bar Chart](04_sales_bar_chart.png)
+
+
 ## Author
 
 Sonu Kushwah  
